@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingkunle
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Wed Development
+- 👀 I’m interested in Machine Learning and Artifical Intelligence
+- 🌱 I’m currently learning Phython
+- 💞️ I’m looking to collaborate on any cool project using phython
 - 📫 How to reach me kingkunle100@gmail.com
 
 <!---
